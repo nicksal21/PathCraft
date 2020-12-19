@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " # ",
+    " d "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:red_sand"
+    },
+    "d":
+    {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result":
+  {
+    "item": "pathcraft:red_sand_path",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "pathcraft:blocks/sand_path",
+    "down": "block/dirt",
+    "up": "block/sand",
+    "north": "pathcraft:blocks/sand_path",
+    "south": "pathcraft:blocks/sand_path",
+    "east": "pathcraft:blocks/sand_path",
+    "west": "pathcraft:blocks/sand_path"
+  }
+}

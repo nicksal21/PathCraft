@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "aaa",
+    "aca",
+    "aaa"
+  ],
+  "key":
+  {
+    "a":
+    {
+      "tag": "pathcraft:aggregates"
+    },
+    "c":
+    {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result":
+  {
+    "item": "pathcraft:mortar",
+    "count": 8
+  }
+}

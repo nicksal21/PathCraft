@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "pathcraft:blocks/cyan_tile_path_up",
+    "down": "block/dirt",
+    "up": "pathcraft:blocks/cyan_tile_path_up",
+    "north": "pathcraft:blocks/cyan_tile_path_side",
+    "south": "pathcraft:blocks/cyan_tile_path_side",
+    "east": "pathcraft:blocks/cyan_tile_path_side",
+    "west": "pathcraft:blocks/cyan_tile_path_side"
+  }
+}

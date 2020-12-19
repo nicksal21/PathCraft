@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pathcraft:big_stepping_stone"
+    }
+  ],
+  "result":
+  {
+    "item": "pathcraft:small_stepping_stone",
+    "count": 4
+  }
+}

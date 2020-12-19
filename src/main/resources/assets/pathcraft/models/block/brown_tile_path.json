@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "pathcraft:blocks/brown_tile_path_up",
+    "down": "block/dirt",
+    "up": "pathcraft:blocks/brown_tile_path_up",
+    "north": "pathcraft:blocks/brown_tile_path_side",
+    "south": "pathcraft:blocks/brown_tile_path_side",
+    "east": "pathcraft:blocks/brown_tile_path_side",
+    "west": "pathcraft:blocks/brown_tile_path_side"
+  }
+}

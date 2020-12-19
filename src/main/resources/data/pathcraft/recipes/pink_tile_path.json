@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " # ",
+    " m ",
+    " c "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:pink_glazed_terracotta"
+    },
+    "m":
+    {
+      "item": "pathcraft:mortar"
+    },
+    "c":
+    {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result":
+  {
+    "item": "pathcraft:pink_tile_path",
+    "count": 2
+  }
+}

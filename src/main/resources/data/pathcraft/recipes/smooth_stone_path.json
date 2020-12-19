@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " # ",
+    " d "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    "d":
+    {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result":
+  {
+    "item": "pathcraft:smooth_stone_path",
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " # ",
+    " d "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:gravel"
+    },
+    "d":
+    {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result":
+  {
+    "item": "pathcraft:gravel_path",
+    "count": 2
+  }
+}

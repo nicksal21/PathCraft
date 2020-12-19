@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pathcraft:gravel_path"
+    },
+    {
+      "item": "pathcraft:rake"
+    }
+  ],
+  "result":
+  {
+    "item": "pathcraft:raked_gravel_path",
+    "count": 1
+  }
+}

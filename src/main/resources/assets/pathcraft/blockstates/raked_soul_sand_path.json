@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pathcraft:block/raked_soul_sand_path" },
+    "facing=south": { "model": "pathcraft:block/raked_soul_sand_path", "y": 180 },
+    "facing=west": { "model": "pathcraft:block/raked_soul_sand_path", "y": 270 },
+    "facing=east": { "model": "pathcraft:block/raked_soul_sand_path", "y": 90 }
+  }
+}

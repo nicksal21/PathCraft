@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "pathcraft:blocks/end_stone_path",
+    "down": "block/dirt",
+    "up": "block/end_stone",
+    "north": "pathcraft:blocks/end_stone_path",
+    "south": "pathcraft:blocks/end_stone_path",
+    "east": "pathcraft:blocks/end_stone_path",
+    "west": "pathcraft:blocks/end_stone_path"
+  }
+}

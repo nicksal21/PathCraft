@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " # ",
+    " d "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:end_stone"
+    },
+    "d":
+    {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result":
+  {
+    "item": "pathcraft:end_stone_path",
+    "count": 4
+  }
+}

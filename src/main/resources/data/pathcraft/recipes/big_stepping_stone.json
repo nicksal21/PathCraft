@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "sss"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:stone_slab"
+    }
+  },
+  "result":
+  {
+    "item": "pathcraft:big_stepping_stone",
+    "count": 16
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "pathcraft:block/yellow_tile_path" }
+  }
+}

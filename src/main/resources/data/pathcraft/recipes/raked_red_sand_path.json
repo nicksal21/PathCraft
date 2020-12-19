@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pathcraft:red_sand_path"
+    },
+    {
+      "item": "pathcraft:rake"
+    }
+  ],
+  "result":
+  {
+    "item": "pathcraft:raked_red_sand_path",
+    "count": 1
+  }
+}
