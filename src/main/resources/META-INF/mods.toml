@@ -23,10 +23,10 @@ displayName="Pathcraft" #mandatory
 updateJSONURL="http://myurl.me/" #optional
 
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://example.com/" #optional
+displayURL="https://github.com/nicksal21/PathCraft" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="examplemod.png" #optional
+logoFile="pathcraft.png" #optional
 
 # A text field displayed in the mod UI
 credits="Thanks for Pathcraft goes to TechnoVision, my Parents, Mojang, and Java" #optional
@@ -36,7 +36,7 @@ authors="SavageZahar" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-More Path Blocks!
+Decorative Path Blocks and Stepping Stones!
 '''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
